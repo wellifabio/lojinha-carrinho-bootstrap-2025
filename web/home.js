@@ -36,7 +36,7 @@ function listarCards(dados) {
                     <p class="card-text">${p.descricao}</p>
                 </div>
                 <div class="card-footer text-end">
-                    <button class="btn btn-primary">Detalhes</button>
+                    <button class="btn btn-primary" onclick="window.location.href='./detalhes.html?id=${p.id}'">Detalhes</button>
                 </div>
             `;
         main.appendChild(card);
