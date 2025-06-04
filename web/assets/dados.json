@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "produto": "Produto bonito 01",
+        "descricao": "Descrição do produto bonitinho 01",
+        "preco": 45.9,
+        "img":"./assets/prods/camisa01.webp"
+    },
+    {
+        "id": 2,
+        "produto": "Produto bonito 02",
+        "descricao": "Descrição do produto bonitinho 02",
+        "preco": 44.9,
+        "img":"./assets/prods/camisa02.webp"
+    },
+    {
+        "id": 3,
+        "produto": "Produto bonito 03",
+        "descricao": "Descrição do produto bonitinho 03",
+        "preco": 99.9,
+        "img":"./assets/prods/camisa03.webp"
+    },
+    {
+        "id": 4,
+        "produto": "Produto bonito 04",
+        "descricao": "Descrição do produto bonitinho 04",
+        "preco": 105.9,
+        "img":"./assets/prods/camisa04.webp"
+    },
+    {
+        "id": 5,
+        "produto": "Produto bonito 05",
+        "descricao": "Descrição do produto bonitinho 05",
+        "preco": 145.9,
+        "img":"https://picsum.photos/200/200"
+    },
+    {
+        "id": 6,
+        "produto": "Produto bonito 06",
+        "descricao": "Descrição do produto bonitinho 06",
+        "preco": 49.9,
+        "img":"https://picsum.photos/200/200"
+    },
+    {
+        "id": 7,
+        "produto": "Produto bonito 07",
+        "descricao": "Descrição do produto bonitinho 07",
+        "preco": 244.9,
+        "img":"https://picsum.photos/200/200"
+    }
+]
